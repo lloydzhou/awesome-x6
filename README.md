@@ -41,7 +41,7 @@ X6 is AntV's diagram editing engine, which provides a series of easy-to-use inte
 
 ### React Component
 - 🇨🇳 [xflow](https://github.com/antvis/xflow) - Professional graph editing application-level solution
-- 🇨🇳 [react-x6](https://github.com/lloydzhou/react-x6) - Using custom `reconciler` to render x6 object in react.
+- 🇨🇳 [react-x6](https://github.com/lloydzhou/react-x6) - Using custom [react-reconciler](https://github.com/facebook/react/tree/main/packages/react-reconciler) to render x6 object in react.
 - 🇨🇳 [x6-graph/react](https://github.com/lloydzhou/x6-graph) - using context to wrap x6 graph as react component.
 - 🇨🇳 [x6-hooks/react](https://github.com/lloydzhou/x6-hooks) - provide react hook `useGraphState` to manager state for @antv/x6
 - 🇨🇳 [antv-x6-react](https://github.com/lloydzhou/antv-x6-react) - the react toolkit for graph analysis based on x6
@@ -49,8 +49,8 @@ X6 is AntV's diagram editing engine, which provides a series of easy-to-use inte
 
 ### Vue Component
 - 🇨🇳 [zsflow-editor](https://gitee.com/gfqy/zsflow-editor) - vue3+AntV X6 2.0版本 完成的流程设计器。内控业务属性的系统流程审批使用.
-- 🇨🇳 [vue-x6](https://github.com/lloydzhou/vue-x6) - Using custom render to render x6 object in vue.
-- 🇨🇳 [x6-graph/vue](https://github.com/lloydzhou/x6-graph) - using context to wrap x6 graph as vue component.
+- 🇨🇳 [vue-x6](https://github.com/lloydzhou/vue-x6) - Using [custom-renderer](https://vuejs.org/api/custom-renderer.html) to render x6 object in vue.
+- 🇨🇳 [x6-graph/vue](https://github.com/lloydzhou/x6-graph) - using `provide`/`inject` api to wrap x6 graph as vue component.
 - 🇨🇳 [x6-hooks/vue](https://github.com/lloydzhou/x6-hooks) - provide vue hook `useGraphState` to manager state for @antv/x6
 - 🇨🇳 [antv-x6-vue](https://github.com/lloydzhou/antv-x6-vue) - the vue toolkit for graph analysis based on x6
 - 🇨🇳 [antv-x6-vue2](https://github.com/g0ngjie/antv-x6-vue2) @g0ngjie - @antv/x6 基于 vue2 + composition-api 的图形化编辑器
