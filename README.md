@@ -9,6 +9,7 @@ Awesome list of antv x6
 - [Frameworks](#frameworks)
     - [React Component](#react-component)
     - [Vue Component](#vue-component)
+    - [Angular Component](#angular-component)
 
 
 ## About
@@ -39,6 +40,7 @@ X6 is AntV's diagram editing engine, which provides a series of easy-to-use inte
 ## Frameworks
 
 ### React Component
+- 🇨🇳 [xflow](https://github.com/antvis/xflow) - Professional graph editing application-level solution
 - 🇨🇳 [react-x6](https://github.com/lloydzhou/react-x6) - Using custom `reconciler` to render x6 object in react.
 - 🇨🇳 [x6-graph/react](https://github.com/lloydzhou/x6-graph) - using context to wrap x6 graph as react component.
 - 🇨🇳 [x6-hooks/react](https://github.com/lloydzhou/x6-hooks) - provide react hook `useGraphState` to manager state for @antv/x6
@@ -50,5 +52,20 @@ X6 is AntV's diagram editing engine, which provides a series of easy-to-use inte
 - 🇨🇳 [x6-graph/vue](https://github.com/lloydzhou/x6-graph) - using context to wrap x6 graph as vue component.
 - 🇨🇳 [x6-hooks/vue](https://github.com/lloydzhou/x6-hooks) - provide vue hook `useGraphState` to manager state for @antv/x6
 - 🇨🇳 [antv-x6-vue](https://github.com/lloydzhou/antv-x6-vue) - the vue toolkit for graph analysis based on x6
+- 🇨🇳 [vue-x6-flow](https://github.com/MyButifullyLife/vue-x6-flow) @MyButifullyLife - vue版流程图简易编辑器、简单易上手
+- 🇨🇳 [antv-x6-vue2](https://github.com/g0ngjie/antv-x6-vue2) @g0ngjie - @antv/x6 基于 vue2 + composition-api 的图形化编辑器
+- 🇨🇳 [vue-x6-flow](https://github.com/xw-an/vue-x6-flow) @xw-an - 基于vue2.x+antdesign+antv x6实现的流程图编辑器
+- 🇨🇳 [vue-x6-flow](https://github.com/lxl19920401/vue-x6-flow) @lxl19920401 - 基于vue2.x+antdesign+antv x6实现的流程图编辑器
+
+
+
+### Angular Component
+- 🇨🇳 [ngx-x6-demo](https://github.com/Eve-Sama/ngx-x6-demo) @Eve-Sama - Demos of antv-x6 in angular
+
+
+
+
+
+
 
 
