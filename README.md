@@ -1,7 +1,12 @@
 # awesome-x6 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Awesome list of antv x6
+Awesome list of [@antv/x6](https://github.com/antvis/x6/)
 
+> **Note**
+>
+> 带有「🇨🇳」的项目为中文资源，或包含中文文档。
+> 
+> Items with “🇨🇳” are either in Chinese, or contain Chinese documentation.
 
 - [About](#about)
 - [Learn](#learn)
