@@ -5,7 +5,7 @@ Awesome list of antv x6
 
 - [About](#about)
 - [Learn](#learn)
-    - [Offical docs](#offical-docs)
+    - [Official docs](#official-docs)
 - [Frameworks](#frameworks)
     - [React Component](#react-component)
     - [Vue Component](#vue-component)
