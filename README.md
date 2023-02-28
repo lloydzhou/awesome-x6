@@ -52,8 +52,8 @@ X6 is AntV's diagram editing engine, which provides a series of easy-to-use inte
 - 🇨🇳 [x6-graph/vue](https://github.com/lloydzhou/x6-graph) - using context to wrap x6 graph as vue component.
 - 🇨🇳 [x6-hooks/vue](https://github.com/lloydzhou/x6-hooks) - provide vue hook `useGraphState` to manager state for @antv/x6
 - 🇨🇳 [antv-x6-vue](https://github.com/lloydzhou/antv-x6-vue) - the vue toolkit for graph analysis based on x6
-- 🇨🇳 [vue-x6-flow](https://github.com/MyButifullyLife/vue-x6-flow) @MyButifullyLife - vue版流程图简易编辑器、简单易上手
 - 🇨🇳 [antv-x6-vue2](https://github.com/g0ngjie/antv-x6-vue2) @g0ngjie - @antv/x6 基于 vue2 + composition-api 的图形化编辑器
+- 🇨🇳 [vue-x6-flow](https://github.com/MyButifullyLife/vue-x6-flow) @MyButifullyLife - vue版流程图简易编辑器、简单易上手
 - 🇨🇳 [vue-x6-flow](https://github.com/xw-an/vue-x6-flow) @xw-an - 基于vue2.x+antdesign+antv x6实现的流程图编辑器
 - 🇨🇳 [vue-x6-flow](https://github.com/lxl19920401/vue-x6-flow) @lxl19920401 - 基于vue2.x+antdesign+antv x6实现的流程图编辑器
 - 🇨🇳 [vue-x6-editor](https://gitee.com/martsforever-pot/vue-x6-editor) - 基于@antv/x6以及plain-ui-composition封装的Vue3.0可视化流程编辑组件
