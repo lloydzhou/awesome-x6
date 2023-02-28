@@ -48,6 +48,7 @@ X6 is AntV's diagram editing engine, which provides a series of easy-to-use inte
 
 
 ### Vue Component
+- 🇨🇳 [zsflow-editor](https://gitee.com/gfqy/zsflow-editor) - vue3+AntV X6 2.0版本 完成的流程设计器。内控业务属性的系统流程审批使用.
 - 🇨🇳 [vue-x6](https://github.com/lloydzhou/vue-x6) - Using custom render to render x6 object in vue.
 - 🇨🇳 [x6-graph/vue](https://github.com/lloydzhou/x6-graph) - using context to wrap x6 graph as vue component.
 - 🇨🇳 [x6-hooks/vue](https://github.com/lloydzhou/x6-hooks) - provide vue hook `useGraphState` to manager state for @antv/x6
