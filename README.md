@@ -27,6 +27,11 @@ X6 is AntV's diagram editing engine, which provides a series of easy-to-use inte
 
 - 🇨🇳 [教程](https://x6.antv.antgroup.com/tutorial/about)
 - 🇨🇳 [API](https://x6.antv.antgroup.com/api/graph/graph)
+- [示例](http://x6.antv.antgroup.com/examples)
+- [博客](https://www.yuque.com/antv/x6/huhla47wqalq5n7r)
+- [更新日志](https://www.yuque.com/antv/x6/bbfu6r)
+- [常见问题](https://www.yuque.com/antv/x6/tox1ukbz5cw57qfy)
+- [CodeSanbox 模板](https://codesandbox.io/s/mo-ban-wchooy?file=/src/App.tsx)
 - [1.x](https://x6.antv.vision/en)
 - 🇨🇳 [1.x](https://antv-x6.gitee.io/zh/)
 
