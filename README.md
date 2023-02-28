@@ -56,6 +56,7 @@ X6 is AntV's diagram editing engine, which provides a series of easy-to-use inte
 - 🇨🇳 [antv-x6-vue2](https://github.com/g0ngjie/antv-x6-vue2) @g0ngjie - @antv/x6 基于 vue2 + composition-api 的图形化编辑器
 - 🇨🇳 [vue-x6-flow](https://github.com/xw-an/vue-x6-flow) @xw-an - 基于vue2.x+antdesign+antv x6实现的流程图编辑器
 - 🇨🇳 [vue-x6-flow](https://github.com/lxl19920401/vue-x6-flow) @lxl19920401 - 基于vue2.x+antdesign+antv x6实现的流程图编辑器
+- 🇨🇳 [vue-x6-editor](https://gitee.com/martsforever-pot/vue-x6-editor) - 基于@antv/x6以及plain-ui-composition封装的Vue3.0可视化流程编辑组件
 
 
 
