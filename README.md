@@ -47,6 +47,7 @@ X6 is AntV's diagram editing engine, which provides a series of easy-to-use inte
 
 ### React Component
 - 🇨🇳 [xflow](https://github.com/antvis/xflow) - Professional graph editing application-level solution
+- 🇨🇳 [imove](https://github.com/i5ting/imove) - iMove 是一个逻辑可复用的，面向函数的，流程可视化的 JavaScript 工具库
 - 🇨🇳 [react-x6](https://github.com/lloydzhou/react-x6) - Using custom [react-reconciler](https://github.com/facebook/react/tree/main/packages/react-reconciler) to render x6 object in react.
 - 🇨🇳 [x6-graph/react](https://github.com/lloydzhou/x6-graph) - using context to wrap x6 graph as react component.
 - 🇨🇳 [x6-hooks/react](https://github.com/lloydzhou/x6-hooks) - provide react hook `useGraphState` to manager state for @antv/x6
@@ -64,7 +65,8 @@ X6 is AntV's diagram editing engine, which provides a series of easy-to-use inte
 - 🇨🇳 [vue-x6-flow](https://github.com/xw-an/vue-x6-flow) @xw-an - 基于vue2.x+antdesign+antv x6实现的流程图编辑器
 - 🇨🇳 [vue-x6-flow](https://github.com/lxl19920401/vue-x6-flow) @lxl19920401 - 基于vue2.x+antdesign+antv x6实现的流程图编辑器
 - 🇨🇳 [vue-x6-editor](https://gitee.com/martsforever-pot/vue-x6-editor) - 基于@antv/x6以及plain-ui-composition封装的Vue3.0可视化流程编辑组件
-
+- 🇨🇳 [x6-flow](https://github.com/lourain/x6-flow) - flowchart base on X6 and Vue
+- 🇨🇳 [vue-x6](https://github.com/AK081KA/vue-x6) - x6的vue实践
 
 
 ### Angular Component
