@@ -10,6 +10,7 @@ Awesome list of antv x6
     - [React Component](#react-component)
     - [Vue Component](#vue-component)
     - [Angular Component](#angular-component)
+    - [Svelte Component](#svelte-component)
 
 
 ## About
@@ -64,6 +65,9 @@ X6 is AntV's diagram editing engine, which provides a series of easy-to-use inte
 ### Angular Component
 - 🇨🇳 [ngx-x6-demo](https://github.com/Eve-Sama/ngx-x6-demo) @Eve-Sama - Demos of antv-x6 in angular
 
+
+### Svelte Component
+- 🇨🇳 [antv-x6-svelte](https://github.com/lloydzhou/antv-x6-svelte) - antv x6 svelte as web component
 
 
 
