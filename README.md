@@ -47,7 +47,7 @@ X6 is AntV's diagram editing engine, which provides a series of easy-to-use inte
 
 ### React Component
 - 🇨🇳 [xflow](https://github.com/antvis/xflow) - Professional graph editing application-level solution
-- 🇨🇳 [ant-design-charts](https://github.com/ant-design/ant-design-charts) - A React Chart Library
+- 🇨🇳 [@ant-design/flowchart](https://github.com/ant-design/ant-design-charts/blob/master/packages/flowchart/README.md) - Flowchart solutions, based on XFlow.
 - 🇨🇳 [imove](https://github.com/i5ting/imove) - iMove 是一个逻辑可复用的，面向函数的，流程可视化的 JavaScript 工具库
 - 🇨🇳 [react-x6](https://github.com/lloydzhou/react-x6) - Using custom [react-reconciler](https://github.com/facebook/react/tree/main/packages/react-reconciler) to render x6 object in react.
 - 🇨🇳 [x6-graph/react](https://github.com/lloydzhou/x6-graph) - using context to wrap x6 graph as react component.
