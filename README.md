@@ -57,7 +57,7 @@ X6 is AntV's diagram editing engine, which provides a series of easy-to-use inte
 
 ### Vue Component
 - 🇨🇳 [zsflow-editor](https://gitee.com/gfqy/zsflow-editor) - vue3+AntV X6 2.0版本 完成的流程设计器。内控业务属性的系统流程审批使用.
-- 🇨🇳 [vue-x6](https://github.com/lloydzhou/vue-x6) - Using [custom-renderer](https://vuejs.org/api/custom-renderer.html) to render x6 object in vue.
+- 🇨🇳 [vue-x6](https://github.com/lloydzhou/vue-x6) @lloydzhou - Using [custom-renderer](https://vuejs.org/api/custom-renderer.html) to render x6 object in vue.
 - 🇨🇳 [x6-graph/vue](https://github.com/lloydzhou/x6-graph) - using `provide`/`inject` api to wrap x6 graph as vue component.
 - 🇨🇳 [x6-hooks/vue](https://github.com/lloydzhou/x6-hooks) - provide vue hook `useGraphState` to manager state for @antv/x6
 - 🇨🇳 [antv-x6-vue](https://github.com/lloydzhou/antv-x6-vue) - the vue toolkit for graph analysis based on x6
@@ -67,7 +67,7 @@ X6 is AntV's diagram editing engine, which provides a series of easy-to-use inte
 - 🇨🇳 [vue-x6-flow](https://github.com/lxl19920401/vue-x6-flow) @lxl19920401 - 基于vue2.x+antdesign+antv x6实现的流程图编辑器
 - 🇨🇳 [vue-x6-editor](https://gitee.com/martsforever-pot/vue-x6-editor) - 基于@antv/x6以及plain-ui-composition封装的Vue3.0可视化流程编辑组件
 - 🇨🇳 [x6-flow](https://github.com/lourain/x6-flow) - flowchart base on X6 and Vue
-- 🇨🇳 [vue-x6](https://github.com/AK081KA/vue-x6) - x6的vue实践
+- 🇨🇳 [vue-x6](https://github.com/AK081KA/vue-x6) @AK081KA - x6的vue实践
 
 
 ### Angular Component
