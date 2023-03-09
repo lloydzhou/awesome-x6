@@ -16,6 +16,7 @@ Awesome list of [@antv/x6](https://github.com/antvis/x6/)
     - [Vue Component](#vue-component)
     - [Angular Component](#angular-component)
     - [Svelte Component](#svelte-component)
+    - [Devtool](#devtool)
 
 
 ## About
@@ -76,6 +77,10 @@ X6 is AntV's diagram editing engine, which provides a series of easy-to-use inte
 
 ### Svelte Component
 - 🇨🇳 [antv-x6-svelte](https://github.com/lloydzhou/antv-x6-svelte) - antv x6 svelte as web component
+
+### Devtool
+- 🇨🇳 [x6-devtool](https://github.com/antvis/X6/tree/master/packages/x6-devtool) - A devtool for @antv/x6 in chrome
+
 
 
 
