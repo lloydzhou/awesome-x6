@@ -77,6 +77,8 @@ X6 is AntV's diagram editing engine, which provides a series of easy-to-use inte
 
 ### Svelte Component
 - 🇨🇳 [antv-x6-svelte](https://github.com/lloydzhou/antv-x6-svelte) - antv x6 svelte as web component
+- 🇨🇳 [x6-svelte-shape](https://github.com/smallshen/x6-svelte-shape) - antv x6 svelte shape
+
 
 ### Devtool
 - 🇨🇳 [x6-devtool](https://github.com/antvis/X6/tree/master/packages/x6-devtool) - A devtool for @antv/x6 in chrome
