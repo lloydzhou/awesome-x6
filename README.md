@@ -11,13 +11,12 @@ Awesome list of [@antv/x6](https://github.com/antvis/x6/)
 - [About](#about)
 - [Learn](#learn)
     - [Official docs](#official-docs)
-- [Shapes](#shapes)
-    - [HTML shape](#html-shape)
 - [Frameworks](#frameworks)
     - [React Component](#react-component)
     - [Vue Component](#vue-component)
     - [Angular Component](#angular-component)
     - [Svelte Component](#svelte-component)
+    - [HTML shape](#html-shape)
     - [Devtool](#devtool)
 
 
@@ -45,12 +44,6 @@ X6 is AntV's diagram editing engine, which provides a series of easy-to-use inte
 - [1.x](https://x6.antv.vision/en)
 - 🇨🇳 [1.x](https://antv-x6.gitee.io/zh/)
 
-
-
-## Shapes
-
-### HTML shape
-- 🇨🇳 [x6-html-shape](https://github.com/lloydzhou/x6-html-shape) - html shape not using foreignObject
 
 ## Frameworks
 
@@ -87,6 +80,8 @@ X6 is AntV's diagram editing engine, which provides a series of easy-to-use inte
 - 🇨🇳 [antv-x6-svelte](https://github.com/lloydzhou/antv-x6-svelte) - antv x6 svelte as web component
 - 🇨🇳 [x6-svelte-shape](https://github.com/smallshen/x6-svelte-shape) - antv x6 svelte shape
 
+### HTML shape
+- 🇨🇳 [x6-html-shape](https://github.com/lloydzhou/x6-html-shape) - html shape not using foreignObject
 
 ### Devtool
 - 🇨🇳 [x6-devtool](https://github.com/antvis/X6/tree/master/packages/x6-devtool) - A devtool for @antv/x6 in chrome
