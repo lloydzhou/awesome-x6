@@ -11,6 +11,8 @@ Awesome list of [@antv/x6](https://github.com/antvis/x6/)
 - [About](#about)
 - [Learn](#learn)
     - [Official docs](#official-docs)
+- [Shapes](#shapes)
+    - [HTML shape](#html-shape)
 - [Frameworks](#frameworks)
     - [React Component](#react-component)
     - [Vue Component](#vue-component)
@@ -43,6 +45,12 @@ X6 is AntV's diagram editing engine, which provides a series of easy-to-use inte
 - [1.x](https://x6.antv.vision/en)
 - 🇨🇳 [1.x](https://antv-x6.gitee.io/zh/)
 
+
+
+## Shapes
+
+### HTML shape
+- 🇨🇳 [x6-html-shape](https://github.com/lloydzhou/x6-html-shape) - html shape not using foreignObject
 
 ## Frameworks
 
