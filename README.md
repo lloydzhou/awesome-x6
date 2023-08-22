@@ -44,6 +44,9 @@ X6 is AntV's diagram editing engine, which provides a series of easy-to-use inte
 - [1.x](https://x6.antv.vision/en)
 - 🇨🇳 [1.x](https://antv-x6.gitee.io/zh/)
 
+### Screencasts / Videos 
+
+- [ANTV X6 JavaScript Diagramming Library: Lets build a workflow editor (Drag and Drop Nodes)](https://www.youtube.com/watch?v=EMtcA5z1fAg)
 
 ## Frameworks
 
