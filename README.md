@@ -87,7 +87,7 @@ X6 is AntV's diagram editing engine, which provides a series of easy-to-use inte
 - 🇨🇳 [x6-html-shape](https://github.com/lloydzhou/x6-html-shape) - 非官方版自定义组件：可选择不依赖foreignObject挂载自定义组件，支持react18/react17/react-portal/vue2/vue3/vue-teleport/svelte等7种方式自定义节点
 
 ### Devtool
-- 🇨🇳 [x6-devtool](https://github.com/antvis/X6/tree/master/packages/x6-devtool) - A devtool for @antv/x6 in chrome
+- 🇨🇳 [x6-devtool](https://github.com/antvis/x6-extensions/tree/master/packages/x6-devtool) - A devtool for @antv/x6 in chrome
 
 
 
